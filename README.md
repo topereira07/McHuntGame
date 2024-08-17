@@ -18,6 +18,7 @@ Check out the game here: [MC Hunter on itch.io](https://joao-ayra-e-antonio.itch
 - **Object-Oriented Programming (OOP):** Implemented core OOP principles such as inheritance, encapsulation, and polymorphism.
 - **Game Loop Development:** Designed a robust game loop to handle updates and rendering.
 - **Core Java Syntax:** Applied fundamental Java concepts in game logic and development.
+- **Multi Threading:** Utilized multi-threading to handle simultaneous game processes, ensuring smooth gameplay and responsive controls.
 
 ### 🕹️ **Game Mechanics**
 - **Player Movement:** Developed responsive player controls.
@@ -26,7 +27,7 @@ Check out the game here: [MC Hunter on itch.io](https://joao-ayra-e-antonio.itch
 
 ### 🎨 **Graphics Programming**
 - **Sprite Management:** Created and manipulated sprites for characters and game elements.
-- *(Optional: If you used libraries like JavaFX or LibGDX, mention them here).*
+- **Graphics:** Used Simple Graphics library, designed by codeforall_.
 
 ### 🤝 **Teamwork**
 - **Collaboration:** Worked closely with classmates on code development, design, and testing.
