@@ -1,7 +1,3 @@
-To make your README more appealing and professional, you can structure it with clear sections, add formatting, and include some visual elements. Here’s a revamped version of your README:
-
----
-
 # **Java Game Development (Bootcamp Project) @ Codeforall_**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
