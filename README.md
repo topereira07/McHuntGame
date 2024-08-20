@@ -31,7 +31,6 @@ Check out the game here: [MC Hunter on itch.io](https://joao-ayra-e-antonio.itch
 
 ### 🤝 **Teamwork**
 - **Collaboration:** Worked closely with classmates on code development, design, and testing.
-- **Contributions:** Mention any specific contributions (e.g., UI design, sound effects, level design).
 
 ---
 
