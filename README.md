@@ -12,26 +12,34 @@ Check out the game here: [MC Hunter on itch.io](https://joao-ayra-e-antonio.itch
 
 ---
 
-## **Skills Demonstrated**
+To include the use of file I/O for saving and loading high scores in your project description, you can update the "Skills Demonstrated" section to mention it explicitly. Here's a revised version that incorporates this aspect:
 
-### 🎮 **Java Fundamentals**
-- **Object-Oriented Programming (OOP):** Implemented core OOP principles such as inheritance, encapsulation, and polymorphism.
-- **Game Loop Development:** Designed a robust game loop to handle updates and rendering.
-- **Core Java Syntax:** Applied fundamental Java concepts in game logic and development.
-- **Multi Threading:** Utilized multi-threading to handle simultaneous game processes, ensuring smooth gameplay and responsive controls.
+---
 
-### 🕹️ **Game Mechanics**
-- **Player Movement:** Developed responsive player controls.
-- **Collision Detection:** Implemented basic collision mechanics between game elements.
+**Skills Demonstrated**
+
+🎮 **Java Fundamentals**  
+- **Object-Oriented Programming (OOP):** Implemented core OOP principles such as inheritance, encapsulation, and polymorphism.  
+- **Game Loop Development:** Designed a robust game loop to handle updates and rendering.  
+- **Core Java Syntax:** Applied fundamental Java concepts in game logic and development.  
+- **Multi-Threading:** Utilized multi-threading to handle simultaneous game processes, ensuring smooth gameplay and responsive controls.  
+- **File I/O:** Implemented file handling to save and load high scores, ensuring data persistence across game sessions.
+
+🕹️ **Game Mechanics**  
+- **Player Movement:** Developed responsive player controls.  
+- **Collision Detection:** Implemented basic collision mechanics between game elements.  
 - **Enemy AI:** Created simple yet effective enemy behaviors.
 
-### 🎨 **Graphics Programming**
-- **Sprite Management:** Created and manipulated sprites for characters and game elements.
-- **Graphics:** Used Simple Graphics library, designed by codeforall_.
+🎨 **Graphics Programming**  
+- **Sprite Management:** Created and manipulated sprites for characters and game elements.  
+- **Graphics:** Used the Simple Graphics library, designed by codeforall_.
 
-### 🤝 **Teamwork**
+🤝 **Teamwork**  
 - **Collaboration:** Worked closely with classmates on code development, design, and testing.
 
+---
+
+This update highlights your ability to handle file I/O in Java, which is a valuable skill in game development for managing persistent data like high scores.
 ---
 
 ## **How to Play**
